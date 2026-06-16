@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "lib/.idea"
+		},
+		{
+			"path": "lib/data"
+		},
+		{
+			"path": "lib/screens"
+		},
+		{
+			"path": "lib/services"
+		},
+		{
+			"path": "lib/storage"
+		},
+		{
+			"path": "lib/utils"
+		},
+		{
+			"path": "lib/widgets"
+		}
+	]
+}
